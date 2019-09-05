@@ -1,2 +1,4 @@
 Java code
-something
+<<<<<<< HEAD
+very new
+
